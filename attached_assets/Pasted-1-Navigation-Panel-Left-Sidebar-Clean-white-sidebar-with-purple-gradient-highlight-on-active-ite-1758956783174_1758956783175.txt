@@ -1,0 +1,173 @@
+1. Navigation Panel (Left Sidebar)
+
+Clean white sidebar with purple gradient highlight on active items. Use icons + labels.
+
+Sections:
+
+Dashboard (Home overview)
+
+Agents
+
+Build Voice Agent
+
+Build Chat Agent
+
+Multi-Agent Orchestration
+
+Campaigns
+
+Batch Calls
+
+WhatsApp Campaigns
+
+Email Campaigns
+
+Drip Workflows
+
+Conversations
+
+Live Calls & Chats
+
+Recordings & Transcripts
+
+Post-Call Analytics (CSAT, Duration, Sentiment)
+
+Analytics
+
+Voice AI Metrics
+
+Chat AI Metrics
+
+Lead Gen Performance
+
+Revenue & ROI Tracking
+
+Integrations
+
+Shopify
+
+WhatsApp
+
+Salesforce
+
+Zoho
+
+Email & Calendar
+
+System
+
+Billing
+
+Settings
+
+Help Center
+
+👉 Purple gradient icons (Lucide style) for each item.
+
+2. Dashboard Home (Main Overview)
+
+Grid layout with interactive cards on a white background + gradient borders.
+
+Top KPIs (Cards):
+
+Total Calls Today (answered/unanswered split, donut chart)
+
+Total Chats (resolved vs escalated, progress bar)
+
+Leads Captured (real-time counter, linked to CRM)
+
+Appointments Booked (calendar integration)
+
+Conversion Rate %
+
+Revenue Impact (ROI)
+
+Visuals:
+
+Line chart of Call Volume over Time
+
+Bar chart for Campaign Performance
+
+Map view for Regional Call Distribution
+
+3. Agents Section
+
+List + Quick Actions.
+
+Agent Table View: Name | Type (Voice/Chat) | Status | Languages | Campaign Assigned | Last Active
+
+Create Agent Wizard:
+
+Pick Voice or Chat
+
+Flow-based builder (drag & drop nodes)
+
+Single-prompt setup (quick launch)
+
+Assign channels (Phone, WhatsApp, Email, Web Chat)
+
+Test & Deploy
+
+4. Campaign Manager
+
+Clean pipeline-like UI.
+
+Campaign table with:
+
+Developer | Project | Campaign | Calls Attempted | Answered | Unanswered | ROI % | Status
+
+Scheduler: Pick date, time, lead list (CSV, CRM, WhatsApp opt-ins).
+
+Status tags: “Running” (blue), “Completed” (green), “Paused” (gray).
+
+5. Conversations & Monitoring
+
+Split-screen interface:
+
+Left: Transcript in real-time (highlight keywords like “site visit” or “price”).
+
+Right: Call Meta Data (Duration, Sentiment, Re-dial count).
+
+Playback: Waveform player for recordings with download option.
+
+Post-call panel:
+
+CSAT Score
+
+Lead Status (Qualified/Disqualified)
+
+Notes & Auto-Summary (AI generated).
+
+6. Analytics Section
+
+Interactive Dashboard:
+
+Voice AI Metrics: Calls placed, Success %, Avg Call Duration, Drop-off Rate.
+
+Chat AI Metrics: Messages handled, Avg Response Time, CSAT.
+
+Omnichannel Metrics: WhatsApp clicks, Email open rate, Shopify conversions.
+
+Funnel view: Leads → Qualified → Meetings → Deals.
+
+Export: PDF / CSV.
+
+7. Integrations Hub
+
+Card-style, big logos for Shopify, WhatsApp, Salesforce, Zoho, Email.
+
+Connected → Green Tick
+
+Not Connected → Purple “Connect Now” button
+
+Tooltip: “Sync leads directly from Shopify abandoned carts”
+
+8. Visual Style
+
+Background: White, clean.
+
+Buttons: Purple gradient (💜 → 💙).
+
+Charts: Soft gradient fills with smooth animations.
+
+UI/UX Style: Figma/Notion hybrid — minimal but data-rich.
